@@ -67,5 +67,5 @@ cd stayinit
 ## Contact
 
 ```
-kartikvaghasiya4477@gmail.com
+Rishitmaheshwari.rm20@gmail.com
 ```
